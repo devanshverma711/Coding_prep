@@ -1,0 +1,1 @@
+This is Devil. you have rightfully open a file using ajax.
